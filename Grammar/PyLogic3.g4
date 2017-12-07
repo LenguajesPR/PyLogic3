@@ -27,6 +27,7 @@
  * Project      : python3-parser; an ANTLR4 grammar for Python 3
  *                https://github.com/bkiers/python3-parser
  * Developed by : Bart Kiers, bart@big-o.nl
+ *
  */
 grammar PyLogic3;
 
