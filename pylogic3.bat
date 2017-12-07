@@ -1,0 +1,1 @@
+antlr4 -Dlanguage=Python2 Grammar/PyLogic3.g4 -o ANTLR-Parser  -no-listener -visitor
